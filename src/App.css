@@ -191,13 +191,32 @@ aside {
   height: 60%;
 }
 
+.otherwebsiteimgp2 {
+  width: 100%;
+  height: 164px;
+  border: none;
+
+}
+
+.l0{
+  margin-bottom: 20px !important;
+}
+
+.layer0logo {
+  margin-top: 20px;
+  width: 35%;
+}
+
 .layer1logo {
-  margin-bottom: -40px;
+  margin-top: 40px;
+  margin-bottom: 15px;
 }
 
 .textCardMoreWebsites {
   color: white;
   text-align: center;
+  font-size: 25px;
+  margin-top: 1px;
 }
 
 .newsRestContainer {
@@ -232,6 +251,12 @@ aside {
 }
 
 .layer1div {
+  height: 170px;
+  position: relative;
+  text-align: center;
+}
+
+.layer0div {
   height: 170px;
   position: relative;
   text-align: center;
